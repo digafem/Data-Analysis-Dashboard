@@ -23,5 +23,5 @@ An interactive Excel dashboard that analyzes road accident data across time, reg
 - Filter by vehicle type, date range, weather, severity
 - Screenshot preview below
   ## 🖼️ Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview]([images/dashboard_preview.png](https://github.com/digafem/Data-Analysis-Dashboard/blob/main/Dashboard1.png))
  
