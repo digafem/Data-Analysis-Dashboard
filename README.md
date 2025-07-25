@@ -11,10 +11,6 @@ An interactive Excel dashboard that analyzes road accident data across time, reg
 - 🌧️ Weather impact on accident frequency and location 
 - 🚗 Involvement by vehicle type
 - 👥 Severity & casualty analysis
-  ## 📊 Dataset
-- **Source**: [Insert data source or note if anonymized]
-- **Format**: Excel (`road_accident_data.xlsx`)
-- **Columns**: Date, Region, Vehicle Type, Weather, Casualties, Severity, Time of Day
 ## 🧼 Data Cleaning
 - Removed null/duplicate rows
 - Normalized date formats
