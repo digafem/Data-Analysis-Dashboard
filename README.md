@@ -8,7 +8,7 @@ An interactive Excel dashboard that analyzes road accident data across time, reg
 ## ❓ Dashboard KPIs
 - 🔢 Total accidents and casualties by region
 - 🕒 Trends by time of day/week/month
-- 🌧️ Weather impact on accident frequency
+- 🌧️ Weather impact on accident frequency and location 
 - 🚗 Involvement by vehicle type
 - 👥 Severity & casualty analysis
   ## 📊 Dataset
